@@ -1,5 +1,5 @@
-#include <stdio.h>
 #include "main.h"
+#include <stdio.h>
 
 /**
  * main - A program that prints its name, followed by a new line
