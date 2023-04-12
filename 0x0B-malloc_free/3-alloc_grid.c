@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * alloc_grid - A program that returns a pointer to a 2 dimensional array of integers
+ * alloc_grid - return a pointer to a 2 dimensional array of integers
  * @width: width input
  * @height: height input
  * Return: pointer to 2 dim. array
